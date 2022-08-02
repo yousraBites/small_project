@@ -1,0 +1,33 @@
+body {
+    background-image: url("https://wallpaperforu.com/wp-content/uploads/2020/07/space-wallpaper-20070715340420-1536x960.jpg");
+}
+div {
+    text-align: center;
+    margin: 250px;
+}
+.button_link {
+  color: black;
+  font-size: 30px;
+  font-family: 'BhuTuka Expanded One', cursive;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.button {
+    background-color: purple;
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: 0px 5px;
+}
+   
+.button:hover {
+    cursor: pointer;
+    background-color: blue;
+}
+   
+.button:active {
+    margin-bottom: -5px;
+    color: purple;
+    box-shadow: 0px 0px;
+}
